@@ -1,0 +1,15 @@
+DRAFT - placement officer must check before sharing
+
+J01 Zentrix Software: matched, 6 eligible
+J02 Nimbus Cloud: matched, 5 eligible
+J03 Bluepeak Systems: matched, 29 eligible
+J04 Kovai Motors: needs_review, 0 eligible
+J05 Orbit Analytics: needs_review, 0 eligible
+J06 BuildRight Constructions: needs_review, 0 eligible
+J07 Finedge Solutions: matched, 10 eligible
+J08 Medilink Health: matched, 4 eligible
+J09 Sparkline Electronics: matched, 9 eligible
+J10 Greenfield Infra: matched, 1 eligible
+
+Students eligible for no job yet:
+27ME002 Bala G

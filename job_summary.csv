@@ -1,0 +1,11 @@
+id,company,branches,min_cgpa,max_backlogs,batch,status,eligible_count
+J01,Zentrix Software,CSE|IT|AIDS,7.5,0,2027,matched,6
+J02,Nimbus Cloud,ECE|EEE,7.0,1,2027,matched,5
+J03,Bluepeak Systems,ALL,6.5,,,matched,29
+J04,Kovai Motors,MECH|EEE,,,2027,needs_review,0
+J05,Orbit Analytics,,,,,needs_review,0
+J06,BuildRight Constructions,CIVIL|MECH,,,2027,needs_review,0
+J07,Finedge Solutions,ALL,8.0,0,,matched,10
+J08,Medilink Health,CSE|IT,7.5,0,2027,matched,4
+J09,Sparkline Electronics,ECE|EEE|CSE,7.0,2,2027,matched,9
+J10,Greenfield Infra,CIVIL,7.0,0,2026,matched,1
